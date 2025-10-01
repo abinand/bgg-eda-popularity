@@ -17,7 +17,9 @@ Data source was last updated in 2022
 ### Scope   
 The data shows an exponential increase in the board games created in the recent decades. Since the dataset was created around beginning of 2021, we see a drop in the count of games created.   
 For the purpose of this exercise we will limit our analysis to the time period from 1950 to 2020.
-The [jupyter notebook](./bgg_eda_popularity.ipynb) has the detailed steps of the analysis.
+
+The [jupyter notebook](./bgg_eda_popularity.ipynb) has the detailed steps of the analysis.  
+
 This can also be found on Kaggle under [abinandsivakumar/bgg-eda-popularity](https://www.kaggle.com/code/abinandsivakumar/bgg-eda-popularity)
 
 ## Dashboard  
