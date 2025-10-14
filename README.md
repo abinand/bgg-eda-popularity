@@ -2,11 +2,12 @@
 
 ## Summary
 
-Exploratory data analysis to discover whether popularity of a board game is correlated with it's complexity.
+Exploratory data analysis to discover whether popularity of a board game is correlated with it's complexity.    
+
 The analysis shows that there is a slight positive correlation between Complexity and the Popularity (based on Ratings).
 More complex games tend to be rated higher and highly rated games are slightly more complex.
 
-## Data Soruces
+## Data Sources
 Data sourced from kaggle dataset [melissamonfared/board-games][data_source] which was sourced from [Board Game Geek][bgg_website]  
 Data source was last updated in 2022
 
